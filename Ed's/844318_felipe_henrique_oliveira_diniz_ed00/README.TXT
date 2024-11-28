@@ -1,0 +1,1 @@
+Não entendi muito bem como modificar um programa que tem metodos e adapta-los no switch case
